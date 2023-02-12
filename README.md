@@ -3,7 +3,6 @@
 ## Introduction
 
 - This is a python implementation with PyTorch for our paper
-- We deleted all identifiable information to ensure anonymity
 - This is a early release version and would have some bugs caused by code reorganizations. 
 
 
